@@ -1,4 +1,4 @@
-Tweet reader
+Tweet reader experiment
 
 Uses:
 
